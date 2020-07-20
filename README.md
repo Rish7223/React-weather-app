@@ -5,12 +5,14 @@ react project so check out.
 # prerequisites
 - node(v12.18.1 & above)
 - npm(6.14.5 & above)
+- openweathermap API key (signup to openweathermap.org and generate API key)
 
 # how to run
 - firstly clone the repo and extract in folder (folder name - you choose).
 - open terminal (git bash i prefer).
 - cd to the folder where all files exists.
 - run #npm install or #npm i.
+- place your openweathermap api key into /src/Keys.js.
 - after installation run #npm start.
 - it automatically start the default browser and run the weather app.
 
