@@ -35,6 +35,8 @@ body {
   border-radius: 10px;
   margin-bottom: 5%;
 }
+.main .search-bar:focus{
+  outline: none;
 
 .main .info {
   height: 50vh;
