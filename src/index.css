@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Ubuntu", sans-serif;
+}
+
+.main {
+  padding-top: 50px;
+  width: 100vw;
+  height: 100vh;
+  background-color: #24424b;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.main .heading {
+  text-transform: capitalize;
+  color: #e1dfdf;
+  font-size: 5rem;
+  max-width: 700px;
+  margin-bottom: 5%;
+}
+
+.main .search-bar {
+  width: 70vw;
+  padding: 10px;
+  background: transparent;
+  color: #e1dfdf;
+  font-size: 1.5rem;
+  border-radius: 10px;
+  margin-bottom: 5%;
+}
+
+.main .info {
+  height: 50vh;
+  background-color: #e1dfdf;
+  min-width: 450px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 30px;
+}
+
+.main .city {
+  text-transform: capitalize;
+  color: #24424b;
+  font-size: 3rem;
+  margin: 20px;
+}
+
+.main .weather {
+  font-size: 6rem;
+  color: #24424b;
+  margin-bottom: 20px;
+}
+
+.main .weatherinfo {
+  font-size: 3rem;
+  color: #24424b;
+}
