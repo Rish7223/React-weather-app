@@ -14,6 +14,6 @@ react project so check out.
 - after installation run #npm start.
 - it automatically start the default browser and run the weather app.
 
-$I like if you appreciate it and please don't judge me it's my first react project.
+@ I like if you appreciate it and please don't judge me it's my first react project.
 
 
