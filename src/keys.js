@@ -1,4 +1,4 @@
 module.exports = {
-  API_KEY: "9bbdd313bdf2ea9d56b519f8049d1260",
+  API_KEY: "<key>EnterOpenWeatherMapKey<key>",
   BASE_URL: "https://api.openweathermap.org/data/2.5/",
 };
